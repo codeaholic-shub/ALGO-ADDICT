@@ -138,6 +138,20 @@ git push -u origin <your_branch_name>
     <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="130px;"><br><sub><b> Arpit Jain </b></sub></a><br><a href="https://github.com/arpit456jain/ALGO-ADDICT/commits?author=arpit456jain" title="Code">💻 </a></td> </a></td>
 </tbody></table>
 
+<h1 align=center> Project Maintainers 😃 </h1>
+<p align="center">
+
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/JyotiKumari2"><img alt="" src="https://avatars.githubusercontent.com/JyotiKumari2" width="130px;"><br><sub><b> Jyoti Kumari </b></sub></a><br><a href="https://github.com/JyotiKumari2/ALGO-ADDICT/commits?author=JyotiKumari2" title="Code">💻 </a></td></a></td>
+    <td align="center"><a href="https://github.com/MrTwinkleSharma"><img alt="" src="https://avatars.githubusercontent.com/MrTwinkleSharma" width="130px;"><br><sub><b> Mr. Twinkle Sharma </b></sub></a><br><a href="https://github.com/MrTwinkleSharma/ALGO-ADDICT/commits?author=MrTwinkleSharma" title="Code">💻 </a></td></a></td>
+     <td align="center"><a href="https://github.com/RishikaGhosh"><img alt="" src="https://avatars.githubusercontent.com/RishikaGhosh" width="130px;"><br><sub><b>
+Rishika Ghosh  </b></sub></a><br><a href="https://github.com/RishikaGhosh/ALGO-ADDICT/commits?author=RishikaGhosh" title="Code">💻 </a></td></a></td>
+
+
+  </tr>
+</tbody></table>
+
 <h2 align=center> ✨ Contributors </h2>
 
 Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
