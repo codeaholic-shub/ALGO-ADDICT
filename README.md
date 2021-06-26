@@ -155,13 +155,13 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	</tr>
 </table>
 
-## Code of Conduct
+## ✔️Code of Conduct
 <p align="center"><a href="https://github.com/nilisha-jais/Musicophilia/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
 
-## License 
+## ✔️License 
 <p align="center"><a href="https://github.com/nilisha-jais/Musicophilia/blob/main/LICENSE"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></a></p>
 
-<h1 align=center>Happy Coding 👨‍💻 </h1>
+
 
 
 
