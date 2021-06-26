@@ -129,7 +129,7 @@ git push -u origin <your_branch_name>
  
  ## 📌Till Then 
 <p align="center"><img src="http://www.gurpreetsaluja.com/wp-content/uploads/2016/05/always-keep-learning.png" width=30%></p>
-
+<hr>
  
  <h1 align=center> Project Admin ❤️ </h1>
 <p align="center">
