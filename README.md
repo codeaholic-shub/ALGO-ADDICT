@@ -37,6 +37,6 @@ The main aim of the project is for bringing all interview and Competitive progra
 - Hackerearth
 
 # Tech-Stack :
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%23E34F26.svg?&style=for-the-badge&logo=c++&logoColor=white"/><br>
-<img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%231572B6.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/><br>
-<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%23323330.svg?&style=for-the-badge&logo=PYTHON&logoColor=%23F7DF1E"/>
+ ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)<br>
+ ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)<br>
+ ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)<br>
