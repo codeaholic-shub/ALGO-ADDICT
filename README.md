@@ -127,9 +127,15 @@ git push -u origin <your_branch_name>
 
  In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com) via email !
  
- <h2 align=center> 🌟 Stargazers Over Time 🌟 </h2>
+ ## Project Admin 😃
 
-[![Stargazers over time](https://starchart.cc/codeaholic-shub/ALGO-ADDICT.svg)](https://starchart.cc/codeaholic-shub/ALGO-ADDICT)
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/codeaholic-shub"><img alt="" src="https://avatars.githubusercontent.com/codeaholic-shub" width="130px;"><br><sub><b> Shubhankar Poddar </b></sub></a><br><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/commits?author=codeaholic-shub" title="Code">💻 </a></td> </a></td>
+  </tr>
+</tbody></table>
+
+
 
 
 
