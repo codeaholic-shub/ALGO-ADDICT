@@ -123,9 +123,11 @@ git push -u origin <your_branch_name>
 
 **15** Voila! You have made a PR to the ALGO_ADDICT. Sit back patiently and relax while the your PR is reviewed. 
 
- In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com)
+<p align="center"><img src="https://media.giphy.com/media/5mCQOcUfywmyI/giphy.gif" width=35%></p>
 
+ In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com) via email !
 
+[![Stargazers over time](https://starchart.cc/codeaholic-shub/ALGO-ADDICT.svg)](https://starchart.cc/codeaholic-shub/ALGO-ADDICT)
 
 
 
