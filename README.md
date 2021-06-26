@@ -137,6 +137,8 @@ git push -u origin <your_branch_name>
   </tr>
 </tbody></table>
 
+<h2 align=center> ✨ Contributors </h2>
+
 Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
 
 <table>
