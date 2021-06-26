@@ -135,8 +135,6 @@ git push -u origin <your_branch_name>
 <table>
   <tbody><tr>
     <td align="center"><a href="https://github.com/codeaholic-shub"><img alt="" src="https://avatars.githubusercontent.com/codeaholic-shub" width="130px;"><br><sub><b> Shubhankar Poddar </b></sub></a><br><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/commits?author=codeaholic-shub" title="Code">💻 </a></td> </a></td>
-    <td align="center"><a href="https://https://github.com/JyotiKumari2"><img alt="" src="https://avatars.githubusercontent.com/JyotiKumari2" width="130px;"><br><sub><b> Jyoti Kumari </b></sub></a><br><a href="https://github.com/JyotiKumari2/ALGO-ADDICT/commits?author=JyotiKumari2" title="Code">💻 </a></td></a></td>
-  </tr>
 </tbody></table>
 
 <h2 align=center> ✨ Contributors </h2>
