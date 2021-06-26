@@ -127,6 +127,10 @@ git push -u origin <your_branch_name>
 
  In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com) via email !
  
+ ## 📌Till Then 
+<p align="center"><img src="http://www.gurpreetsaluja.com/wp-content/uploads/2016/05/always-keep-learning.png" width=30%></p>
+
+ 
  <h1 align=center> Project Admin ❤️ </h1>
 <p align="center">
 
@@ -151,6 +155,13 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	</tr>
 </table>
 
+## Code of Conduct
+<p align="center"><a href="https://github.com/nilisha-jais/Musicophilia/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+
+## License 
+<p align="center"><a href="https://github.com/nilisha-jais/Musicophilia/blob/main/LICENSE"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></a></p>
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
 
 
 
