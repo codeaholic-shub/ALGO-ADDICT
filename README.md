@@ -11,7 +11,7 @@ Are you a Newbie in programming and want to dive deep into it?
 
 <p align="center"><img src="https://media.giphy.com/media/l4q83E0RjRSGLXBLO/giphy.gif" width = 40%></p>
 
-Are you looking for some famous codng interview questions in which each and every code will teach you an important Concept?
+Are you looking for some famous coding interview questions in which each and every code will teach you an important Concept?
 
 <p align="center"><img src="https://media.giphy.com/media/Uq4XZx6xm8bdVgrv9T/giphy.gif" width = 40%></p>
 
@@ -50,7 +50,7 @@ Happy Submissions :slightly_smiling_face:
 ## Contribution Guidelines🏗
 
 Are we missing any of your questions, which you think you can add to it❓ We invite you to contribute to this project and make it better. 
-To start contributing, follow the below guidelines: 
+To start contributing, follow the guidelines below: 
 
 **1.**  Fork [this](https://github.com/codeaholic-shub/ALGO-ADDICT) repository.
 
