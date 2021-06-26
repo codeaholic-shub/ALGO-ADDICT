@@ -127,7 +127,8 @@ git push -u origin <your_branch_name>
 
  In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com) via email !
  
- ## Project Admin 😃
+ <h1 align=center> Project Admin ❤️ </h1>
+<p align="center">
 
 <table>
   <tbody><tr>
@@ -136,7 +137,17 @@ git push -u origin <your_branch_name>
   </tr>
 </tbody></table>
 
+Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
 
+<table>
+	<tr>
+		 <td>
+  <a href="https://github.com/codeaholic-shub/ALGO-ADDICT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeaholic-shub/ALGO-ADDICT" />
+  </a>
+		</td>
+	</tr>
+</table>
 
 
 
