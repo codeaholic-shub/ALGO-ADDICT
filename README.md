@@ -126,6 +126,8 @@ git push -u origin <your_branch_name>
 <p align="center"><img src="https://media.giphy.com/media/5mCQOcUfywmyI/giphy.gif" width=35%></p>
 
  In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com) via email !
+ 
+ <h2 align=center> 🌟 Stargazers Over Time 🌟 </h2>
 
 [![Stargazers over time](https://starchart.cc/codeaholic-shub/ALGO-ADDICT.svg)](https://starchart.cc/codeaholic-shub/ALGO-ADDICT)
 
