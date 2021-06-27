@@ -147,6 +147,10 @@ git push -u origin <your_branch_name>
     <td align="center"><a href="https://github.com/MrTwinkleSharma"><img alt="" src="https://avatars.githubusercontent.com/MrTwinkleSharma" width="130px;"><br><sub><b> Mr. Twinkle Sharma </b></sub></a><br><a href="https://github.com/MrTwinkleSharma/ALGO-ADDICT/commits?author=MrTwinkleSharma" title="Code">💻 </a></td></a></td>
      <td align="center"><a href="https://github.com/RishikaGhosh"><img alt="" src="https://avatars.githubusercontent.com/RishikaGhosh" width="130px;"><br><sub><b>
 Rishika Ghosh  </b></sub></a><br><a href="https://github.com/RishikaGhosh/ALGO-ADDICT/commits?author=RishikaGhosh" title="Code">💻 </a></td></a></td>
+<td align="center"><a href="https://github.com/RounakNeogy"><img alt="" src="https://avatars.githubusercontent.com/RounakNeogy" width="130px;"><br><sub><b>
+Rounak Neogy  </b></sub></a><br><a href="https://github.com/RounakNeogy/ALGO-ADDICT/commits?author=RounakNeogy" title="Code">💻 </a></td></a></td>
+<td align="center"><a href="https://github.com/siddhi-244"><img alt="" src="https://avatars.githubusercontent.com/siddhi-244" width="130px;"><br><sub><b>
+Siddhi Bhanushali  </b></sub></a><br><a href="https://github.com/siddhi-244/ALGO-ADDICT/commits?author=siddhi-244" title="Code">💻 </a></td></a></td>
 
 
   </tr>
