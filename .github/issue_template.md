@@ -1,11 +1,11 @@
----
-Topic: Programming Topics
-About: Suggest the naive solution and optimal solution to your code with Time Complexity 
-Name: YourName
-Label: Feature Request
-Assignee: ''
 
----
+Topic:   <!-- Programming Topics -->
+About: <!-- Suggest the naive solution and optimal solution to your code with Time Complexity -->
+Name: <!-- Name -->
+Label: <!-- feature request -->
+Assignee: <!-- ' ' -->
+
+
 
 Define You: 
 
@@ -16,19 +16,24 @@ Define You:
 **Is your code related to a problem? Please describe and attach the question links too.**
 
 <!-- A clear and concise description of what the problem is. -->
+-
 
 **Describe the solution you'd like...**
 
 <!-- A clear and concise description of what you want to happen. -->
+-
 
 **Describe alternatives you've considered?**
 
 <!-- A clear and concise description of any alternative solutions or features you've considered. -->
+-
 
 **Approach to be followed (optional):**
 
 <!-- A clear and concise description of approach to be followed. -->
+-
 
 **Additional context**
 
 <!-- Add any other context or screenshots about the feature request here. -->
+-
