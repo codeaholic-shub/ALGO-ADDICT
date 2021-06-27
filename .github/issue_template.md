@@ -1,6 +1,6 @@
 ---
 Topic: Programming Topics
-About: Suggest an naive solution and optimal solutions to your code 
+About: Suggest the naive solution and optimal solution to your code with Time Complexity 
 Name: YourName
 Label: Feature Request
 Assignee: ''
