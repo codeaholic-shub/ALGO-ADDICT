@@ -1,9 +1,9 @@
 
-Topic:   <!-- Programming Topics -->
-About: <!-- Suggest the naive solution and optimal solution to your code with Time Complexity -->
-Name: <!-- Name -->
-Label: <!-- feature request -->
-Assignee: <!-- ' ' -->
+Topic:   <!-- Programming Topics --><br>
+About: <!-- Suggest the naive solution and optimal solution to your code with Time Complexity --><br>
+Name: <!-- Name --><br>
+Label: <!-- feature request --><br>
+Assignee: <!-- ' ' --><br>
 
 
 
