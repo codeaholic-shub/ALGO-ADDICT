@@ -164,7 +164,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	<tr>
 		 <td>
   <a href="https://github.com/codeaholic-shub/ALGO-ADDICT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeaholic-shub/ALGO-ADDICT" />
+  <img src="https://contributors-img.web.app/image?repo=codeaholic-shub/AlGO-ADDICT" />
   </a>
 		</td>
 	</tr>
