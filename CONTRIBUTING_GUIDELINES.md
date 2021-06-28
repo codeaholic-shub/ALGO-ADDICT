@@ -13,6 +13,28 @@
 - ***You can contribute*** some **Learning Resources** in the ***LearningResources.md*** File.
 - You can modify or add extra solutions if you feel like your solution is better or different in terms of ***Time or Space complexity etc.***
 
+### Typical structure of a program
+```
+/*
+ @brief Add one line description here
+ @details
+ This is a multi line
+ description containing links, references, test cases etc.
+ @author [Name](https://github.com/handle)
+*/
+ 
+/*
+ 
+    Your code
+ 
+*/
+```
+### New File Name guidelines
+Use lowercase words with ``"_"`` as a separator
+- For instance, to add a c++ file 
+```markdown
+my_new_program.cpp    is correct format
+```
 ### Please follow these General Rules
 #### Do's
 - Comment Your Code, use Docstring for functions.
