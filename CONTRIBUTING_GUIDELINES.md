@@ -29,6 +29,12 @@
  
 */
 ```
+### New File Name guidelines
+Use lowercase words with ``"_"`` as a separator
+- For instance, to add a c++ file 
+```markdown
+my_new_program.cpp    is correct format
+```
 ### Please follow these General Rules
 #### Do's
 - Comment Your Code, use Docstring for functions.
