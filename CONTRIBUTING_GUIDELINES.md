@@ -13,7 +13,7 @@
 - ***You can contribute*** some **Learning Resources** in the ***LearningResources.md*** File.
 - You can modify or add extra solutions if you feel like your solution is better or different in terms of ***Time or Space complexity etc.***
 
-### Typical program structure
+### Typical structure of a program
 ```
 /*
  @brief Add one line description here
