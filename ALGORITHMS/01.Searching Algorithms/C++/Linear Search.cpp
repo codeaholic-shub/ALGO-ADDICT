@@ -1,3 +1,4 @@
+// Linear Search Algorithm
 #include <iostream>
 using namespace std;
  
@@ -24,7 +25,7 @@ int main(void)
     // 10 25
     // 12 34 72 45 82 25 91 100 65 123
 
-    
+
     int size_of_array, number_for_searching;
     cin>>size_of_array >> number_for_searching;;
     int arr[size_of_array+1]; // create a array size +1 than the size of the array givin.
