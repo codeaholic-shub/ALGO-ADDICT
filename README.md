@@ -5,6 +5,7 @@
 🎯 Containing all popular competitive programming and interview questions.<br>
 🎯 Main aim for those students who are preparing for coding interviews.<br>
 🎯 If you practice coding on online platform , you can contribute to this repo.<br>
+🎯 Keep Calm and Do Coding !
 
 Are you a Newbie in programming and want to dive deep into it?
 
