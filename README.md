@@ -135,8 +135,7 @@ In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com)
 <table>
   <tbody><tr>
     <td align="center"><a href="https://github.com/codeaholic-shub"><img alt="" src="https://avatars.githubusercontent.com/codeaholic-shub" width="130px;"><br><sub><b> Shubhankar Poddar </b></sub></a><br><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/commits?author=codeaholic-shub" title="Code">💻 </a></td> </a></td>
-    <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="130px;"><br><sub><b> Arpit Jain </b></sub></a><br><a href="https://github.com/arpit456jain/ALGO-ADDICT/commits?author=arpit456jain" title="Code">💻 </a></td> </a></td>
-</tbody></table>
+    
 
 <h1 align=center> Project Maintainers 😃 </h1>
 <p align="center">
