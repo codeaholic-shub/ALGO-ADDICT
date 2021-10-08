@@ -136,6 +136,7 @@ In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com)
   <tbody><tr>
     <td align="center"><a href="https://github.com/codeaholic-shub"><img alt="" src="https://avatars.githubusercontent.com/codeaholic-shub" width="130px;"><br><sub><b> Shubhankar Poddar </b></sub></a><br><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/commits?author=codeaholic-shub" title="Code">💻 </a></td> </a></td>
     </tbody></tr>
+ </table>
     
 
 <h1 align=center> Project Maintainers 😃 </h1>
