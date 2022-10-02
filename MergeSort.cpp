@@ -1,7 +1,7 @@
 // C++ program for Merge Sort
 #include <iostream>
 using namespace std;
-
+//kg was here
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
 // Second subarray is arr[m+1..r]
@@ -55,7 +55,7 @@ void merge(int arr[], int l, int m, int r)
 	while (j < n2) {
 		arr[k] = R[j];
 		j++;
-		k++;
+		++k;
 	}
 }
 
@@ -86,7 +86,7 @@ int main()
 	int arr[] = { 12, 11, 13, 5, 6, 7 };
 	int arr_size = sizeof(arr) / sizeof(arr[0]);
 
-	cout << "Given array is \n";
+	cout << "Given array is "<<endl;
 	printArray(arr, arr_size);
 
 	mergeSort(arr, 0, arr_size - 1);
@@ -96,5 +96,5 @@ int main()
 	return 0;
 }
 
-// This code is contributed by Mayank Tyagi
+// This code is contributed by danish khan aka kg
 //s
