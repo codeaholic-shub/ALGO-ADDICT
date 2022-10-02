@@ -170,6 +170,9 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 	</tr>
 </table>
 ## ✔️Code of Conduct
+## ✔️License
+
+<p align="center"><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/blob/main/LICENSE"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></a></p>
 
 <p align="center"><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
 
