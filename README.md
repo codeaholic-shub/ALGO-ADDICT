@@ -1,11 +1,5 @@
 # 💻ALGO-ADDICT🏆🏅
 
-![ALGO_ADDICT](https://socialify.git.ci/codeaholic-shub/ALGO-ADDICT/image?description=1&descriptionEditable=Put%20Your%20Thoughts%20into%20code%F0%9F%92%99&font=Bitter&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
-
-🎯 Containing all popular competitive programming and interview questions.<br>
-🎯 Main aim for those students who are preparing for coding interviews.<br>
-🎯 If you practice coding on online platform , you can contribute to this repo.<br>
-🎯 Keep Calm and Do Coding !
 
 Are you a Newbie in programming and want to dive deep into it?
 
