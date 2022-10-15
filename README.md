@@ -174,6 +174,16 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 
 <p align="center"><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
 
+## ✔️License
+
+<p align="center"><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/blob/main/LICENSE"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></a></p>
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
