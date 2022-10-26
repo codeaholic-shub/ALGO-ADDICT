@@ -7,6 +7,7 @@
 🎯 If you practice coding on online platform , you can contribute to this repo.<br>
 🎯 Keep Calm and Do Coding !
 
+
 Are you a Newbie in programming and want to dive deep into it?
 
 <p align="center"><img src="https://media.giphy.com/media/l4q83E0RjRSGLXBLO/giphy.gif" width = 40%></p>
@@ -169,6 +170,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 		</td>
 	</tr>
 </table>
+
 ## ✔️Code of Conduct
 
 <p align="center"><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
@@ -183,8 +185,9 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
-
-
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
+
+
+

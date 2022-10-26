@@ -72,6 +72,7 @@ void mergeSort(int arr[],int l,int r){
 	merge(arr,l,m,r);
 }
 
+
 // UTILITY FUNCTIONS
 // Function to print an array
 void printArray(int A[], int size)
@@ -98,3 +99,4 @@ int main()
 
 // This code is contributed by danish khan aka kg
 //s
+
